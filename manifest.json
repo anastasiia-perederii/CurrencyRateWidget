@@ -1,0 +1,9 @@
+{
+  "platform": "CRM",
+  "widgetType": "relatedlist",
+  "name": "CurrencyRateWidget",
+  "url": "widget.html",
+  "location": "Deals.relatedlist",
+  "width": 600,
+  "height": 300
+}
